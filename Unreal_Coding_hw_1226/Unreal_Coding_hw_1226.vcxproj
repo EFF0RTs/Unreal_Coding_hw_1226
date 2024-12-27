@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="UnrealCoding_hw_1226_1.cpp" />
+    <ClCompile Include="UnrealCoding_hw_1227_01.cpp" />
     <ClCompile Include="UnrealConding_hw_1226.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
